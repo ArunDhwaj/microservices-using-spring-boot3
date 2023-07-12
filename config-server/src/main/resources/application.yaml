@@ -5,3 +5,6 @@ spring:
   profiles:
     active: native
 
+health:
+  config:
+    enabled=false

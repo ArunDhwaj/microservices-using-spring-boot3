@@ -2,6 +2,8 @@
 Microservices using Spring Boot 3
 
 =========================
+Reference:
+https://www.youtube.com/watch?v=HFl2dzhVuUo&t=2252s
 
 1) Adding the zipkin server
 
